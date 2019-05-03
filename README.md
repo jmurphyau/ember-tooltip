@@ -1,25 +1,27 @@
 # Ember-tooltip
 
-This README outlines the details of collaborating on this Ember addon.
+Compatibility
+------------------------------------------------------------------------------
 
-## Installation
+* Ember.js v2.18 or above
+* Ember CLI v2.13 or above
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
 
-## Running
+Installation
+------------------------------------------------------------------------------
 
-* `ember server`
-* Visit your app at http://localhost:4200.
+```
+ember install ember-tooltip
+```
 
-## Running Tests
 
-* `ember test`
-* `ember test --server`
+Contributing
+------------------------------------------------------------------------------
 
-## Building
+See the [Contributing](CONTRIBUTING.md) guide for details.
 
-* `ember build`
 
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+License
+------------------------------------------------------------------------------
+
+This project is licensed under the [MIT License](LICENSE.md).
